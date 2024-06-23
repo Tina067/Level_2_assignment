@@ -1,0 +1,51 @@
+.border {
+    border: 2px solid black;
+    margin: auto;
+    margin-top: 50px;
+    max-width: 589px;
+  }
+  
+  .wrapper {
+    padding: 30px 40px;
+  }
+  
+  .heading {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+  }
+  
+  .form {
+     display: flex;
+     flex-direction: column;
+     margin-top: 50px;
+  }
+  
+  .form-fields {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  .labell {
+    margin-bottom: 10px;;
+  }
+  
+  .input-field {
+    padding: 8px;
+    border-radius: 10px;
+  }
+
+  .button {
+    max-width: 200px;
+    margin: auto;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+
+  .error {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
